@@ -50,3 +50,5 @@ This project involves the design and simulation of a **Synchronous RAM (Random A
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/3fcaca6e-9e9c-4252-8890-f2a2163dd217)
+
